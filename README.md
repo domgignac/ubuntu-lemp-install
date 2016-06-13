@@ -1,5 +1,5 @@
-Installing LEMP
-===============
+Installing LEMP on Ubuntu 14.04 LTS
+===================================
 
 Install main packages
 ---------------------
